@@ -17,6 +17,8 @@ HOW TO RUN
 #Next Click on run all in order for you to RUN THE PROGRAMMING
 
 #Power BI
+#You can run the power BI dashboard by downloading the power bi data
+#Also download the power bi ecommerce to run the dashboard
 
 #REACT. Here you can access the simple user interphase dashboard 
 [ConversionPilot_AI](https://conversion-pilot-ai.vercel.app/dashboard)
